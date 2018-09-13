@@ -8,6 +8,7 @@ from bs4 import BeautifulSoup
 import csv
 
 
+#comment aiurea pt git
 
 def calcMaxPag(nrC, cartier):
     
