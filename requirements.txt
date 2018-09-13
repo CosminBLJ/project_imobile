@@ -1,0 +1,10 @@
+certifi==2018.8.24
+chardet==3.0.4
+conda==4.3.16
+enum34==1.1.6
+idna==2.7
+pycosat==0.6.3
+requests==2.19.1
+ruamel.ordereddict==0.4.13
+ruamel.yaml==0.15.66
+urllib3==1.23
